@@ -3,7 +3,7 @@
 export PATH=$PATH:/home/$USER/.local/share/gem/ruby/3.0.0/bin
 # export PATH=$PATH:/home/elliot/.local/share/gem/ruby/3.0.0/bin
 green="\e[1;32m"
-reset="\e[1;32m"
+reset="\e[0m"
 echo -e "[$green+$reset] PATH Exported Successfully..."
 
 if [[ $# == 1 ]]; then
