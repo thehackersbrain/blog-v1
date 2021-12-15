@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://blog.gauravraj.tech/sitemap.xml
+Sitemap: https://thehackersbrain.github.io/blog/sitemap.xml
