@@ -10,8 +10,8 @@ if [[ $# == 1 ]]; then
 	JEKYLL_ENV=production bundle exec jekyll b -d blog
 	$JEKYLL_ENV
 	echo -e "[$green+$reset] Production Build Completed..."
-	cp CNAME blog/
-	echo -e "[$green+$reset] CNAME File Copied Successfully..."
+	# cp CNAME blog/
+	# echo -e "[$green+$reset] CNAME File Copied Successfully..."
 	cd blog
 	git add .
 	git commit -m "$1"
