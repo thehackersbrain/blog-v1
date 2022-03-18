@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://blog.gauravraj.xyz/sitemap.xml
+Sitemap: https://dev.gauravraj.xyz/sitemap.xml
